@@ -28,7 +28,7 @@ Now you can use PostCSS in your jade templates as following.
 
 ```jade
 style
-	:postcss
+  :postcss
     .hello {
       h1 {
         color: red;

@@ -1,0 +1,24 @@
+{
+  "name": "jade-postcss",
+  "version": "0.1.0",
+  "description": "Simple module which adds a PostCSS filter to jade.",
+  "main": "index.js",
+  "author": "Antono Vasiljev <antono.vasiljev@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antono/jade-postcss.git"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "dependencies": {
+    "postcss": "~4.1"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "jade": "^1.8.1",
+    "mocha": "*",
+    "postcss-nested": "^0.3.2"
+  }
+}

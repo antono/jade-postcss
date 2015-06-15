@@ -1,5 +1,7 @@
 # jade-postcss
 
+*DEPRECATED:* use jstransformer-postcss instead. 
+
 This is a simple module which adds a PostCSS filter to jade.
 
 ##Installation
